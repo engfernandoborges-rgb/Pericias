@@ -2,3 +2,6 @@ openpyxl
 pandas
 Pillow
 pillow-heif
+opencv-python-headless
+numpy
+python-docx
